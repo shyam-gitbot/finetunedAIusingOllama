@@ -19,5 +19,9 @@ curl -fsSL https://ollama.com/install.sh | sh
 curl -fsSL --retry 5 --retry-delay 3 https://ollama.com/install.sh | sh
 ```
 
-- (sep-19-25 : 02:18 )the system is having some issues downloading the ollama, I will try downlaoding the same using my home wifi, if not then I will continue this project in my own system using WSL. 
+<!-- - (sep-19-25 : 02:18 )the system is having some issues downloading the ollama, I will try downlaoding the same using my home wifi, if not then I will continue this project in my own system using WSL.  -->
+<!--  -->
+<!-- - downloaded in the system watching it download made it successful  -->
 
+I have succesfully downloaded the Ollama in system.
+- running the tinyllama for now as the system don't have GPU power to handle big models
